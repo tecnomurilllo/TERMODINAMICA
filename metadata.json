@@ -1,0 +1,5 @@
+{
+  "name": "ThermoVis: Máquinas Térmicas",
+  "description": "Interactive Thermodynamics Banner for Moodle illustrating Heat Engines, Refrigerators, and Heat Pumps based on Industrial Technology II curriculum.",
+  "requestFramePermissions": []
+}
